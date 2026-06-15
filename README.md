@@ -36,8 +36,8 @@ src/
 
 └── ui/
 
-    └── Main.java
-
+│    └── Main.java
+    
 Resources/
 
 │
@@ -46,18 +46,21 @@ Resources/
 
 
 
+
+
 ⚙️ Instrucciones para ejecutar el proyecto
 
-1.Clonar el repositorio desde GitHub: https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour.git
-2.Abrir el proyecto en IntelliJ IDEA.
+1. Clonar el repositorio desde GitHub: https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour.git
+   
+2. Abrir el proyecto en IntelliJ IDEA.
 
-3.Verificar que el archivo tour.txt se encuentre dentro de la carpeta:
+3. Verificar que el archivo tour.txt se encuentre dentro de la carpeta:
 
-4.Ejecutar la clase:
+4. Ejecutar la clase:
 
-5.ui/Main.java
+5. ui/Main.java
 
-6.Revisar la salida generada en consola.
+6. Revisar la salida generada en consola.
 
 🧪 Prueba realizada
 
