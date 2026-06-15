@@ -1,0 +1,5 @@
+Camino Ensenada;Naturaleza;2000
+Sector Purranque;Cultural;10000
+Ciudades Chiloe;Gastronimico;35000
+Salida Puerto Octay;Celebracion;9000
+RioCascadas;Naturaleza;230000
