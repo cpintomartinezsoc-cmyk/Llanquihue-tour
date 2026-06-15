@@ -19,18 +19,29 @@ Igualmente se permite recorrer el listado completa y filtrar según la necesidad
 🧱 Estructura del proyecto
 
 src/
+
 │
+
 ├── model/
+
 │   └── Tour.java
+
 │
+
 ├── data/
+
 │   └── GestorDatos.java
+
 │
+
 └── ui/
+
     └── Main.java
 
 Resources/
+
 │
+
 └── tour.txt
 
 
